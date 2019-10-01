@@ -1,3 +1,11 @@
+
+# Additional data analysis 
+From the perspectives of the geolocated data visualisation we are interested in Planetary Response Network.
+Extracting markings of damage and other features from post-disaster satellite imagery.
+Script -- puts classification information together with geocoordinate information from subject exports.
+Marker type -- point, polygon (though these aren't reduced here)
+
+
 # Data-digging
 This repository contains scripts and documentation related to analyzing classification data from Zooniverse projects.  Most content is tailored to Panoptes-based Project Builder projects, but there is also some legacy Ouroboros-based code.
 
